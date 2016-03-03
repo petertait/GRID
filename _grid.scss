@@ -5,6 +5,8 @@ $gutter: 20px;
 
 $columns: 4;
 
+* { box-sizing: border-box; }
+
 .grid {
   margin: 0 auto;
   max-width: $bpoint-max;
